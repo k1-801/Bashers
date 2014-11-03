@@ -1,3 +1,3 @@
 Bashers
 =======
-Close it immediatly. Please.
+Close it immediately. Please.
